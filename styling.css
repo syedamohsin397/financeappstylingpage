@@ -1,0 +1,87 @@
+
+    h1,h2 {
+        display: block;
+        font-size: 2em;
+        margin-block-start: 0.67em;
+        margin-block-end: 0.67em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        font-weight: bold;
+        font-family: 'Nunito Sans', sans-serif;
+    }
+
+div {
+    display: block;
+}
+
+.container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px
+
+}
+
+.pink {
+    display: inline-block;
+    background-color: rgb(189, 144, 151);
+}
+
+.light-blue {
+    display: inline-block;
+    background-color: rgb(123, 173, 194);
+}
+
+.light-green {
+    display: inline-block;
+    background-color: rgb(147, 221, 170);
+}
+
+.font-panel {
+    display: inline-block
+}
+.Font1 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.Font2 {
+    font-family: 'Abril Fatface', sans-serif;
+ }
+
+ .Font3{
+    font-family: 'Work Sans', sans-serif;
+ }
+
+ .Heading h1{
+    font-weight: 700;
+    font-size: 32px;
+    font-family: 'Abril Fatface', sans-serif;
+ }
+
+ .styling  {
+    font-size: 16x;
+    font-family: 'Abril Fatface', sans-serif;
+ }
+
+ .Heading h2   {
+        font-weight: 500;
+        font-size: 18px;
+        font-family: 'Abril Fatface', sans-serif;
+ }
+
+ 
+
+
+
+
+
+
+
+  
